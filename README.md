@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">I'm currently learning front-end development with a goal of becoming a Frontend Developer — and later, a Full Stack Developer. Lately, I've been diving into TypeScript and Tailwind CSS.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  Check out my projects
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
